@@ -12,6 +12,10 @@ An Unsplash Layout which uses unsplash api to fetch and show different images co
 Each tab displays pictures in that collection .
 Infinite scrolling has been implemented for pagination.
 
+[Screenshot-2020-09-20-134132.png](https://postimg.cc/pmXKZVTX)
+
+
+
 ### Setup
 
 Run **npm install** for installing dependencies.<br/>
