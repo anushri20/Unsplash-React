@@ -8,11 +8,13 @@ Before using the Unsplash API, you need to [register as a developer](https://uns
 
 ## Introduction
 
-An Unsplash Layout which uses unsplash api to fetch and show different images collection.
-Each tab displays pictures in that collection .
+An Unsplash Layout which uses unsplash api to fetch and show different images collection.<br/>
+Each tab displays pictures in that collection .<br/>
 Infinite scrolling has been implemented for pagination.
 
 ![Screenshot-2020-09-20-134132.png](https://i.postimg.cc/CxbJwzpD/Screenshot-2020-09-20-134132.png)
+<br/>
+<br/>
 ![Screenshot](https://i.postimg.cc/MpYPyv3w/Screenshot-2020-09-20-134755.png)
 
 
