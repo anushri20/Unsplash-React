@@ -13,6 +13,7 @@ Each tab displays pictures in that collection .
 Infinite scrolling has been implemented for pagination.
 
 ![Screenshot-2020-09-20-134132.png](https://i.postimg.cc/CxbJwzpD/Screenshot-2020-09-20-134132.png)
+![Screenshot](https://i.postimg.cc/MpYPyv3w/Screenshot-2020-09-20-134755.png)
 
 
 
