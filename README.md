@@ -11,6 +11,6 @@ Infinite scrolling has been implemented for pagination.
 
 ### Installation
 
-Run npm install for installing dependencies.<br/>
-Run npm start for running it on local server.
+Run **npm install** for installing dependencies.<br/>
+Run **npm start** for running it on local server.
 
